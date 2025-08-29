@@ -172,3 +172,18 @@ body {
 h5 {
   color: #dc3545; /* Red color for headings */
 }
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.dark-mode .navbar {
+  background-color: #222 !important;
+}
+
+

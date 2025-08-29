@@ -286,3 +286,8 @@ function searchProducts() {
     displayProducts(filteredProducts);
   }
 }
+function toggleDarkMode() {
+  document.body.classList.toggle("dark-mode");
+}
+
+

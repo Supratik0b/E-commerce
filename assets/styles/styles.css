@@ -185,16 +185,7 @@ h5 {
 .dark-mode .navbar {
   background-color: #222 !important;
 }
-/* Dark Mode Navbar Text */
-.dark-mode .navbar .navbar-brand,
-.dark-mode .navbar .nav-link {
-  color: white !important;
-}
 
-.dark-mode .navbar .nav-link:hover,
-.dark-mode .navbar .navbar-brand:hover {
-  color: #ff4d4d !important; /* optional hover effect */
-}
 
 
 
